@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Слой_x0020_1">
+        <g id="_2519543538880">
+            <rect x="0" y="0" width="128" height="128" style="fill:none;"/>
+            <path d="M64,1C80,1 94,7 106,17C104,20 94,32 73,40C63,21 52,6 49,3C54,2 59,1 64,1ZM112,25C121,35 126,49 126,63C123,63 103,59 83,61C83,60 82,59 82,58C80,55 79,52 78,49C100,40 111,27 112,25ZM126,74C123,91 113,106 99,116C98,111 95,93 87,71C106,68 123,73 126,74ZM89,122C81,125 73,127 64,127C50,127 36,122 26,113C28,110 41,86 75,74C84,97 87,116 89,122ZM17,106C8,95 1,80 1,64C1,63 2,63 2,62C6,62 36,62 66,53C68,57 69,60 71,64C70,64 69,64 68,65C37,75 20,102 17,106ZM3,51C7,32 20,16 37,7C40,10 50,26 61,43C32,51 7,51 3,51Z" style="fill:rgb(0,255,217);"/>
+        </g>
+    </g>
+</svg>

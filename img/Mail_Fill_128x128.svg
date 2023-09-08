@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Слой_x0020_1">
+        <g id="_2504674346976">
+            <rect x="0" y="0" width="128" height="128" style="fill:none;"/>
+            <path d="M12,20L116,20C117,20 118,21 118,21C113,27 75,72 63,72C51,72 14,27 9,21C10,21 11,20 12,20ZM126,27L126,100C122,96 107,78 92,64C107,50 122,32 126,27ZM119,107C118,107 117,108 116,108L12,108C11,108 10,107 9,107C10,105 27,85 42,70C50,77 58,82 63,82C69,82 76,77 85,70C100,85 117,104 119,107ZM2,100L2,28C6,33 20,50 35,64C20,77 6,95 2,100Z" style="fill:rgb(0,255,217);"/>
+        </g>
+    </g>
+</svg>
